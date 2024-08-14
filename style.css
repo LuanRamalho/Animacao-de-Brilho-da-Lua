@@ -1,0 +1,31 @@
+body {
+background: linear-gradient( 90deg, #000000, #000000, rgb(68, 68, 68));
+font-family: ‘Segoe UI’, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#moonshine {
+margin: auto;
+margin-top: 10%;
+height: 200px;
+width: 200px;
+border-radius: 50%;
+/* background: hsl(0, 0%, 50%); */
+}
+
+div#moonshine {
+box-shadow: 35px 20px 0px 0px #fff;
+}
+
+div#text {q
+text-align: center;margin-top: 50px;
+}
+
+h2 {
+color: #eed80e;
+opacity: .8;
+text-transform: uppercase;
+}
+
+div#text span {
+color: #fff;
+}
